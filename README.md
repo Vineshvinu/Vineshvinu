@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="center">
-  <img src="https://telegra.ph/file/40e4beca1da8f9c840ea9.jpg" alt="Vinesh😎">
+  <img src="" alt="Vinesh😎">
 </p>
 <p align="left">
 • 𝙼𝚢 𝙽𝚊𝚖𝚎 : Vinesh
